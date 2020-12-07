@@ -1,1 +1,2 @@
 test git
+exec prog emxExtractObjectsRels.tcl "eService Trigger Program Parameters" "";
